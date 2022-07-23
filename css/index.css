@@ -128,7 +128,7 @@
 /*Slider bar section*/
 .main-outer-slider-bar{
     width: 100%;
-    height: 500px;
+    height: auto;
     border: 1px solid red;
     margin: 0!important;
 }
@@ -142,6 +142,10 @@
 .right-slider-outer-top, .left-slider-outer-top{
     border: 1px solid red;
     flex: 1;
+}
+.left-slider-outer-top img{
+    width: 100%;
+    height: 100%;
 }
 /*Slider bar section*/
 
