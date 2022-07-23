@@ -9,6 +9,10 @@
     border: 1px solid red;
     display: flex;
     justify-content: center;
+    overflow: hidden;
+}
+.image-outer:hover .image{
+    transform: scale(1.5);
 }
 .image{
     height: 100%;
