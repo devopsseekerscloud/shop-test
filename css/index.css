@@ -101,6 +101,31 @@
 
 /*middle bar section*/
 
+/*Nav bar section*/
+.nav-outer{
+    width: 100%;
+    height: 50px;
+    background-color: #34495e;
+    display: flex;
+    align-items: center;
+    padding: 0 20px;
+
+}
+.nav-list{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+.nav-list li{
+    margin-right: 20px;
+}
+.nav-list li a{
+    text-decoration: none;
+    color: white;
+}
+/*Nav bar section*/
+
 
 
 
