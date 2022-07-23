@@ -32,10 +32,16 @@
     text-decoration: underline;
 }
 .top-left-inner-box{
-    width: 50px;
     height: 25px;
     background-color: white;
     margin-right: 10px;
+    padding: 0 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.top-left-inner-box small{
+    margin: 0;
 }
 .top-left-inner-box:nth-child(3){
     margin: 0;
