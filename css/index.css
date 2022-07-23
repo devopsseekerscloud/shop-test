@@ -8,6 +8,7 @@
     height: 50px;
     background-color: #ecf0f1;
     display: flex;
+    padding: 0 50px;
 }
 .top-bar-inner{
     flex: 1;
